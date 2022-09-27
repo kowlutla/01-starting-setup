@@ -5,3 +5,9 @@
     width: 50rem;
     max-width: 95%;
   }
+
+  p{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+  }
